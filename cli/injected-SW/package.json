@@ -1,0 +1,15 @@
+{
+  "name": "injected",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "workbox": "workbox injectManifest"
+  },
+  "keywords": [],
+  "author": "Joel Humberto Gómez Paredes <elmaildeldezkareid@gmail.com> (https://twitter.com/DezkaReid)",
+  "license": "ISC",
+  "devDependencies": {
+    "workbox-cli": "^3.1.0"
+  }
+}
