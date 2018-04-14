@@ -1,0 +1,13 @@
+{
+  "name": "generated-sw",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "workbox": "workbox generateSW"
+  },
+  "author": "Joel Humberto Gómez Paredes <elmaildeldezkareid@gmail.com> (https://twitter.com/DezkaReid)",
+  "license": "MIT",
+  "devDependencies": {
+    "workbox-cli": "^3.1.0"
+  }
+}
